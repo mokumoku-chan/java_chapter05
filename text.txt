@@ -1,0 +1,17 @@
+プリミティブ型とは
+short
+byte
+long
+int
+double
+float
+char
+boolean
+の8つの型のこと。
+
+参照型とは
+class
+interface
+array
+型変数
+の4種類の総称のこと
